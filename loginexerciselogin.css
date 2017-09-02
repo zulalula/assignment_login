@@ -1,0 +1,62 @@
+.bg {
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+          /*Set rules to fill background */
+  min-height: 100%;
+  min-width: 1000px;
+	
+  /* set up proportionate scaling*/
+  width: 100%;
+  height: auto;
+	
+ /* Set up positioning */
+  top: 0;
+  left: 0; 
+    }
+
+.button{
+   
+    background-color:whitesmoke;
+    font-size: 1.5em;
+    color:#eaddec; 
+    width: 200px;
+    height: 60px;
+   font-family: 'Raleway', sans-serif;
+    border-style:inherit;
+}
+
+.ps , .un {
+    
+    background-color:whitesmoke;
+    color:lightslategrey;
+    width: 150px;
+    height: 40px;
+   font-family: 'Raleway', sans-serif;
+    border-style:inherit;
+} 
+
+
+
+.forma{
+  margin-top: 30px;    
+  text-align: center;
+    
+}
+
+#logout {
+   
+    background-color:whitesmoke;
+    font-size: 1.5em;
+    color:#eaddec; 
+    width: 200px;
+    height: 60px;
+   font-family: 'Raleway', sans-serif;
+    border-style:inherit;
+    margin-right:20px;
+}
+
+
+
+    
